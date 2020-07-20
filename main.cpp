@@ -19,7 +19,7 @@ constexpr int detected_by_enemysensor_time = 0x3978; //and this
 			 h1077260+a*16,g);y(Write,\
 			g+i4712,  f); } HANDLE han;
 		  /*credits:..*/     han    =\
-		 GetStdHandle(-11);      //.
+		  GetStdHandle(-11);      //.
 		/*shwp*/WriteConsole(han,
 		"bullet:)\n",0x9,
 	   &h,0);while(\
